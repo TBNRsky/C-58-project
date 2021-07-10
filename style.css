@@ -1,0 +1,29 @@
+body{
+text-align: center;
+margin:0;
+padding-top: 800px;
+}
+.hobby{
+width:100px;
+height: 100px;
+}
+#boba{
+position: absolute;
+overflow: hidden;
+height:800px;
+color:darkblue;
+left:0;
+right:0;
+top:0;
+bottom:0;
+opacity:0.83;
+background:linear-gradient(#03fccf 0%,#03fcfc 100%);
+display:table;
+width: 100%;
+height: 100%;
+}
+#boba_2{
+padding:50px;
+text-align:center;
+font-size:20px;
+}
